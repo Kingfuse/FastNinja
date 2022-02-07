@@ -1,0 +1,2 @@
+# FastNinja
+FastNinja
